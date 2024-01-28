@@ -7,7 +7,7 @@ This repository contains an implementation of the Eclat algorithm, a popular dat
 
 ## Implementation Details
 
-The main script for the Eclat algorithm can be found in the [ECLAT_DM_Project.ipynb](https://github.com/farahmoataz90/eclat-algorithm-data-mining/blob/main/ECLAT_DM_Project.ipynb) file. Additionally, sample datasets for testing the algorithm are provided in the [H_Format.xlsx][V_Format.xlsx](https://github.com/farahmoataz90/eclat-algorithm-data-mining/blob/main/V_Format.xlsx) directory.
+The main script for the Eclat algorithm can be found in the [ECLAT_DM_Project.ipynb](https://github.com/farahmoataz90/eclat-algorithm-data-mining/blob/main/ECLAT_DM_Project.ipynb) file. Additionally, sample datasets for testing the algorithm are provided in the [H_Format.xlsx](https://github.com/farahmoataz90/eclat-algorithm-data-mining/blob/main/H_Format.xlsx)  [V_Format.xlsx](https://github.com/farahmoataz90/eclat-algorithm-data-mining/blob/main/V_Format.xlsx) directory.
 
 ## Getting Started
 
